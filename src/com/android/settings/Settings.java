@@ -504,4 +504,6 @@ public class Settings extends SettingsActivity {
 
     // SuperiorLab Additoon
     public static class SuperiorLabActivity extends SettingsActivity {}
+
+    public static class DevRunningServicesActivity extends SettingsActivity { /* empty */ }
 }
