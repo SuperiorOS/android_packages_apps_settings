@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020-2024 The SuperiorOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Random summary -->
+    <string-array name="superiorlab_summaries">
+        <item>Warning: Insanely cool stuff ahead!</item>
+        <item>Some interesting tagline. Blah blah blah...</item>
+        <item>Get ready to be blown to the world of imagination</item>
+        <item>Its features lickin\' good</item>
+        <item>Look out! Behind you!</item>
+        <item>All things being equal, you are bound to lose.</item>
+        <item>Fame may be fleeting but obscurity is forever</item>
+        <item>This entry will self-destruct in five minutes</item>
+        <item>Things are not always what they seem</item>
+        <item>Some assembly required</item>
+        <item>He who laughs last didn\'t get the joke</item>
+        <item>Where there\'s a will, there\'s an Inheritance Tax</item>
+        <item>This is an unauthorized cybernetic announcement</item>
+        <item>No stopping or standing</item>
+        <item>Never eat anything bigger than your head</item>
+        <item>Customize till you want it</item>
+        <item>Think less, customize more</item>
+        <item>FBI: Feature Base Isolation</item>
+        <item>This is what awesome looks like</item>
+        <item>With great features comes great responsibility</item>
+        <item>Don\'t dream it. Do it</item>
+        <item>Proudly brought to you without donations</item>
+        <item>Enter with caution!</item>
+        <item>Brains needed beyond this point</item>
+        <item>Imagination overload alert!</item>
+        <item>Epic vibes ahead</item>
+        <item>Welcome to the fun zone!</item>
+        <item>Stay curious, stay cool</item>
+        <item>Customize like a pro!</item>
+        <item>Handle with imagination</item>
+        <item>This way to awesome</item>
+        <item>Think, create, repeat</item>
+        <item>Adventure starts now!</item>
+        <item>Because reality is boring</item>
+        <item>Dream big, act bigger</item>
+        <item>Gear up for greatness!</item>
+        <item>Lost? Follow the vibe!</item>
+        <item>Built for rebels</item>
+        <item>Add a splash of magic</item>
+        <item>Dare to discover</item>
+        <item>This space is for legends</item>
+        <item>Created with pure madness</item>        
+    </string-array>
+
+</resources>
