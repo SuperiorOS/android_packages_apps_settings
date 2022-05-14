@@ -27,4 +27,8 @@
      <string name="build_date">Build date</string>
      <string name="build_date_default">2015-01-01-0000</string>
      <string name="keywords_build_date">build date, build info</string>
+
+     <!-- General -->
+     <string name="copied_to_clipboard">Copied to clipboard</string>
+     <string name="longpress_to_clipboard">Long-press to copy</string>
 </resources>
